@@ -7,12 +7,12 @@ const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: '',
+  APP_ID: 'wx6092d04aad8accf9',
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: '',
+  APP_SECRET: '6d911eabd8c97f5e9bfff5b6599168e0',
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -172,10 +172,10 @@ const USER_CONFIG = {
     },
     {
       name: '老婆1',
-      id: '',
+      id: 'ohP-76QhsmC-kXgpj0W7Wssx2gIc',
       useTemplateId: '',
       province: '',
-      city: '',
+      city: '青岛',
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: 'https://wangxinleo.cn',
@@ -218,7 +218,7 @@ const USER_CONFIG = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'XbQ1-6JVaJDpLtblnlinxNyY5Nwg0E5-9CBjW0ETzNA',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
